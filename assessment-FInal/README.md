@@ -1,5 +1,7 @@
 # Brillance
 
+[Live site](https://brillance-sage.vercel.app)
+
 ### Install dependencies
 npm install
 
